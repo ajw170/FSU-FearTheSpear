@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fear the Spear!</string>
+    <string name="app_title">Fear the Spear!</string>
+    <string name="default_button_text">Unable to Find Audio File!</string>
+    <string name="playback_start">Start</string>
+    <string name="playback_stop">Stop</string>
+    <string name="playback_pause">Pause</string>
+    <string name="playback_play">Play</string>
+    <string name="button_song_1">FSU War Chant</string>
+    <string name="button_song_2">FSU Fight Song</string>
+    <string name="button_song_3">FSU Victory Song</string>
+    <string name="button_song_4">Gold and Garnett</string>
+    <string name="button_song_5">FSU Cheer</string>
+    <string name="button_song_6">4th Quarter Fanfare</string>
+    <string name="button_song_7">Seminole Uprising</string>
+</resources>
